@@ -1,16 +1,8 @@
 import requests
 
-api_token = "63f77a9d-266b-4063-ac29-d548fa9bfe57"
+url = "https://ca.engagingnetworks.app/ens/service/authenticate"
 
-# URL for the authentication endpoint
-url = "https://us.engagingnetworks.app/ens/service/authenticate"
-
-# Payload for the authentication request (with the API token)
-payload = {
-    "token": api_token
-}
-
-# Headers for the request
+payload = "63f77a9d-266b-4063-ac29-d548fa9bfe57"
 headers = {
     "Content-Type": "application/json",
     "Accept": "application/json"

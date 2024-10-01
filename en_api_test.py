@@ -1,8 +1,8 @@
 import requests
 
-url = "https://ca.engagingnetworks.app/ens/service/authenticate"
+url = "https://us.engagingnetworks.app/ens/service/authenticate"
 
-payload = "63f77a9d-266b-4063-ac29-d548fa9bfe57"
+payload = "a8fda2f8-aff5-44e7-be10-6234309f3ce0"
 headers = {
     "Content-Type": "application/json",
     "Accept": "application/json"

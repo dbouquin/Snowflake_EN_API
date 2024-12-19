@@ -2,7 +2,7 @@ import requests
 
 # API URL and token
 url = 'https://us.engagingnetworks.app/ea-dataservice/import.service'  # Use the appropriate region URL
-token = '63f77a9d-266b-4063-ac29-d548fa9bfe57'
+token = #'token' goes here
 
 # File and format details
 file_path = '/Users/dbouquin/Library/CloudStorage/OneDrive-NationalParksConservationAssociation/Data_Vault/Snowflake_EN_API/P2P_EN_page_interactions.csv'
